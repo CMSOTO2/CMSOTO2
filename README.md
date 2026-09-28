@@ -31,23 +31,21 @@ TanStack Start on Cloudflare Workers, Supabase Postgres with row-level security,
 subscriptions, Playwright E2E suites on desktop Chrome, iPhone Safari and Android Chrome,
 and axe accessibility checks (WCAG 2.2 AA, light and dark) on every push in CI.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/closewatch/closewatch-proposal-dashboard-ranked-by-intent-dark.webp">
+  <img src="assets/closewatch/closewatch-proposal-dashboard-ranked-by-intent.webp" alt="The Closewatch dashboard: open proposals ranked by an intent score out of 100, each showing time on pricing, readers and opens, with a panel explaining the top score">
+</picture>
+
 <table>
   <tr>
-    <td align="center" width="33%">
-      <picture>
-        <source media="(prefers-color-scheme: dark)" srcset="assets/closewatch/closewatch-proposal-dashboard-ranked-by-intent-dark.webp">
-        <img src="assets/closewatch/closewatch-proposal-dashboard-ranked-by-intent.webp" alt="The Closewatch dashboard: open proposals ranked by an intent score out of 100, each showing time on pricing, readers and opens, with a panel explaining the top score">
-      </picture>
-      <br><sub>Proposals ranked by intent</sub>
-    </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/closewatch/closewatch-attention-report-time-per-page-pricing-dark.webp">
         <img src="assets/closewatch/closewatch-attention-report-time-per-page-pricing.webp" alt="A proposal's activity page: intent score, opens, viewers and total time, and a bar per page showing ten minutes spent on the pricing page">
       </picture>
       <br><sub>Time spent on each page</sub>
     </td>
-    <td align="center" width="33%">
+    <td align="center" width="50%">
       <picture>
         <source media="(prefers-color-scheme: dark)" srcset="assets/closewatch/closewatch-forwarded-proposal-new-readers-dark.webp">
         <img src="assets/closewatch/closewatch-forwarded-proposal-new-readers.webp" alt="Recent visits on a proposal: the original recipient plus two new readers marked as forwarded from them, with device, location and whether they printed or downloaded it">
@@ -85,11 +83,27 @@ A full-stack data product for exploring GDP, inflation, life expectancy and pove
 country. React, TypeScript and Visx charts with a world map, a Fastify + SQLite API, and a
 Python / Jupyter data pipeline.
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/global-development-dashboard/timeseries-dark.png">
+  <img src="assets/global-development-dashboard/timeseries.png" alt="GDP growth from 1990 to 2024 as a multi-line chart for eight countries, with metric tabs, region and income filters, and removable country chips above it">
+</picture>
+
 <table>
   <tr>
-    <td align="center" width="33%"><img src="assets/global-development-dashboard/timeseries.png" alt="GDP growth from 1990 to 2024 as a multi-line chart for eight countries, with metric tabs, region and income filters, and removable country chips above it"><br><sub>Compare countries over time</sub></td>
-    <td align="center" width="33%"><img src="assets/global-development-dashboard/scatter.png" alt="Scatter plot of GDP growth against life expectancy for every country, bubbles sized by poverty rate and coloured by region"><br><sub>GDP vs life expectancy</sub></td>
-    <td align="center" width="33%"><img src="assets/global-development-dashboard/map.png" alt="World map shaded by life expectancy in 2022, from 54 years in teal to 84 years in deep magenta, with year and metric selectors"><br><sub>World map by indicator</sub></td>
+    <td align="center" width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/global-development-dashboard/scatter-dark.png">
+        <img src="assets/global-development-dashboard/scatter.png" alt="Scatter plot of GDP growth against life expectancy for every country, bubbles sized by poverty rate and coloured by region">
+      </picture>
+      <br><sub>GDP growth vs life expectancy</sub>
+    </td>
+    <td align="center" width="50%">
+      <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="assets/global-development-dashboard/map-dark.png">
+        <img src="assets/global-development-dashboard/map.png" alt="World map shaded by life expectancy in 2022, from 54 years in teal to 84 years in deep magenta, with year and metric selectors">
+      </picture>
+      <br><sub>World map by indicator</sub>
+    </td>
   </tr>
 </table>
 
