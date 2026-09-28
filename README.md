@@ -1,12 +1,13 @@
 ## Carlos Soto
 
-Senior product engineer based in Columbus, Ohio. I build accessible, fast web and mobile
-apps with React, React Native and TypeScript, and I've spent the last 5+ years shipping
-customer-facing products used by millions of people.
+Senior product engineer based in Columbus, Ohio. I'm passionate about building great UIs
+and making them accessible to every user, whatever device, ability or assistive
+technology they bring. For 5+ years I've done that with React, React Native and
+TypeScript, shipping customer-facing web and mobile products used by millions of people.
 
-The things I care most about are **accessibility** (a WCAG-compliant UI is part of what
-"done" means), **end-to-end testing** of real user flows, and **performance** people can
-feel on real phones.
+To me a UI isn't done until it works for everyone: **accessibility** (WCAG, keyboard,
+screen readers, reduced motion) is built in from the first component, **end-to-end tests**
+cover the flows real users take, and **performance** holds up on real phones.
 
 ### What I work with
 
