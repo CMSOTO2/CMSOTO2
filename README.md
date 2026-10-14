@@ -1,6 +1,6 @@
 ## Carlos Soto
 
-Senior product engineer based in Columbus, Ohio. I'm passionate about building great UIs
+Senior frontend engineer based in Columbus, Ohio. I'm passionate about building great UIs
 and making them accessible to every user, whatever device, ability or assistive
 technology they bring. For 5+ years I've done that with React, React Native and
 TypeScript, shipping customer-facing web and mobile products used by millions of people.
